@@ -1,4 +1,4 @@
-# Generative Models in Single-cell RNA-seq using R
+# Generative Modeling of Single-cell RNA-seq Using Variational Autoencoders
 
 This project uses **Variational Autoencoders (VAEs)** in R to explore and simulate single-cell gene expression data using the PBMC3k dataset.
 
